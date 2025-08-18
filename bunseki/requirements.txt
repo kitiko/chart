@@ -9,3 +9,5 @@ unicodedata2
 streamlit-copy-to-clipboard
 plotly==5.22.0
 setuptools
+pandas-ta==0.3.14b0
+
