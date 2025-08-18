@@ -1,13 +1,10 @@
-﻿streamlit
-pandas
+streamlit
 yfinance
-requests
+pandas
+altair
 beautifulsoup4
-japanize-matplotlib
-xlrd
-unicodedata2
-streamlit-copy-to-clipboard
-plotly==5.22.0
-setuptools
-pandas-ta==0.3.14b0
+curl_cffi
+requests
+numpy==1.26.4
+
 
