@@ -1,10 +1,8 @@
-streamlit==1.35.0
-yfinance==0.2.40
-pandas==2.2.2
+streamlit
+yfinance
+pandas
+altair
+beautifulsoup4
+curl_cffi
+requests
 numpy==1.26.4
-plotly==5.22.0
-pandas-ta==0.3.14b0
-openpyxl==3.1.2
-xlrd==2.0.1
-pandas-ta==0.3.14b0
-
