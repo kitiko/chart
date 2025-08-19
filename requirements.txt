@@ -1,8 +1,12 @@
 streamlit
 yfinance
 pandas
+plotly
 altair
 beautifulsoup4
 curl_cffi
 requests
+pandas-ta==0.3.14b0
+openpyxl
+xlrd
 numpy==1.26.4
